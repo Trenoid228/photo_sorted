@@ -1,0 +1,7 @@
+doc.txt
+gui_venv/
+photo_sorter/sorter.db
+photo_sorter/sorter.db-shm
+photo_sorter/sorter.db-wal
+photo_sorter/sorted
+photo_sorter/unsorted
